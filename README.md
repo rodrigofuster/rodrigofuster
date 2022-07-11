@@ -2,6 +2,9 @@
   <h1>Hello World! :vulcan_salute: Eu sou Rodrigo Füster.</h1>
   <h2>Desenvolvedor Front-End Júnior. </h2>
   <hr>
+  
+  <h2>Olá! Eu sou Rodrigo Cauê Füster, tenho 33 anos, sou gaúcho e natural da cidade de Igrejinha. Atualmente estou cursando a graduação de Análise e Desenvolvimento de Sistemas e realizando cursos de programação, com foco de atuação no Front-End.
+Sou uma pessoa divertida e bem humorada e considero um ponto forte o bom relacionamento com meus colegas. Procuro sempre ter responsabilidade com minhas funções, ser proativo e aberto a novas ideias no ambiente de trabalho.</h2>
  
   <img  height="380em" src="https://user-images.githubusercontent.com/87047818/176969749-62b2e646-608c-44c8-aaf8-d3be818e3bed.gif"/>
   <h2>  :mortar_board: Cursando Análise e Desenvolvimento de Sistemas </h2>
