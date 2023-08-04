@@ -1,9 +1,4 @@
 
-   <br>
-   
-   ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   
-   <br>
    
    ##  :briefcase: Trabalhos e Projetos :point_right: [**Portifólio**](https://rodrigofuster.github.io/portfolio/) :point_left:
    
