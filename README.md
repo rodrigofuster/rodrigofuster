@@ -1,6 +1,6 @@
 
    
-   ##  :briefcase: Trabalhos e Projetos :point_right: [**Portifólio**](https://rodrigofuster.github.io/portfolio/) :point_left:
+
    
    <br>
    <div>
